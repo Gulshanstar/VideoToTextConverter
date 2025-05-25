@@ -25,14 +25,14 @@ st.markdown("""
         margin-bottom: 2rem;
     }
     .result-box {
-        background-color: #f8f9fa;
+        background-color: ##000000;
         padding: 1rem;
         border-radius: 8px;
         border-left: 4px solid #007bff;
         margin: 1rem 0;
     }
     .summary-box {
-        background-color: #e8f5e8;
+        background-color: ##000000;
         padding: 1rem;
         border-radius: 8px;
         border-left: 4px solid #28a745;
